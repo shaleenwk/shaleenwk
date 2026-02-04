@@ -1,6 +1,4 @@
-## Hi there 👋
-<img width="1220" height="251" alt="image" src="https://github.com/user-attachments/assets/c6bb956c-c9de-4045-8ca6-0b42efe59907" />
-
+## Hello world 👋
 <!--
 **shaleenwk/shaleenwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Shaleen
+I ask questions, clean data, and tell stories with numbers 📊
+Data analytics enthusiast | Python • SQL • Excel • Visualization
+
+🔗 LinkedIn: https://www.linkedin.com/in/shaleen-k-03128620a
+
+🌐 Portfolio: https://shaleenk.vercel.app/
+
+📧 Email: sharlynwanjiku2@gmail.com
