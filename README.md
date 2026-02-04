@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1220" height="251" alt="image" src="https://github.com/user-attachments/assets/c6bb956c-c9de-4045-8ca6-0b42efe59907" />
 
 <!--
 **shaleenwk/shaleenwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
