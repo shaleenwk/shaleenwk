@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Shaleen
+
 I ask questions, clean data, and tell stories with numbers 📊
-Data analytics enthusiast | Python • SQL • Excel • Visualization
+
+Data Analyst | Data Scientist | Python • SQL • Excel • Visualization
 
 🔗 LinkedIn: https://www.linkedin.com/in/shaleen-k-03128620a
 
