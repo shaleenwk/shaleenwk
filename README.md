@@ -21,6 +21,6 @@ Data Analyst | Data Scientist | Python • SQL • Excel • Visualization
 
 🔗 LinkedIn: https://www.linkedin.com/in/shaleen-k-03128620a
 
-🌐 Portfolio: https://shaleenk.vercel.app/
+🌐 Portfolio: Coming soon!
 
 📧 Email: sharlynwanjiku2@gmail.com
