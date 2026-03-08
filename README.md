@@ -19,7 +19,7 @@ I ask questions, clean data, and tell stories with numbers 📊
 
 Data Analyst | Data Scientist | Python • SQL • Excel • Visualization
 
-🔗 LinkedIn: https://www.linkedin.com/in/shaleen-k-03128620a
+🔗 LinkedIn: https://www.linkedin.com/in/shaleenkihara
 
 🌐 Portfolio: Coming soon!
 
